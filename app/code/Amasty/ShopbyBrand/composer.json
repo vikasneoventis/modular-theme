@@ -1,0 +1,20 @@
+{
+    "name": "amasty/module-improved-layered-navigation-brand",
+    "description": "Improved Layered Navigation by Amasty - Brand sub-module",
+    "require": {
+        "php": "~5.5.0|~5.6.0|~7.0.0",
+        "amasty/module-improved-layered-navigation": "1.7.2",
+        "amasty/base": "*"
+    },
+    "type": "magento2-module",
+    "version": "1.7.2",
+    "license": [
+        "Commercial"
+    ],
+    "autoload": {
+    "files": [ "registration.php" ],
+        "psr-4": {
+            "Amasty\\ShopbyBrand\\": ""
+        }
+    }
+}

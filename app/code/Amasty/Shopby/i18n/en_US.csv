@@ -1,0 +1,63 @@
+"[STORE VIEW]","[STORE VIEW]"
+General,General
+"URL alias","URL alias"
+Featured,Featured
+"Display Properties","Display Properties"
+"Display Mode","Display Mode"
+"Sort Options By","Sort Options By"
+"Show Product Quantities","Show Product Quantities"
+"Show Search Box","Show Search Box"
+"Number of unfolded options","Number of unfolded options"
+Expand,Expand
+Tooltip,Tooltip
+Filtering,Filtering
+"Allow Multiselect","Allow Multiselect"
+"Multiple Values Logic","Multiple Values Logic"
+"Hide filter when only one option available","Hide filter when only one option available"
+"Measure Units","Measure Units"
+"Unit label","Unit label"
+"Slider Step","Slider Step"
+"You saved the item.","You saved the item."
+"Something went wrong while saving the item data. Please review the error log.","Something went wrong while saving the item data. Please review the error log."
+"Layer Filter applied with multiple parameters, but multiselect restricted for the filter.","Layer Filter applied with multiple parameters, but multiselect restricted for the filter."
+"%1 and above","%1 and above"
+"%1 - %2","%1 - %2"
+"%1 stars & up","%1 stars & up"
+"%1 star & up","%1 star & up"
+"%1 stars","%1 stars"
+"Not Yet Rated","Not Yet Rated"
+"In Stock","In Stock"
+"Out of Stock","Out of Stock"
+"Bucket does not exist","Bucket does not exist"
+Default,Default
+Dropdown,Dropdown
+Slider,Slider
+Sidebar,Sidebar
+Top,Top
+"Store Currency","Store Currency"
+"Custom label","Custom label"
+"Show products with ANY value","Show products with ANY value"
+"Show products with ALL values only","Show products with ALL values only"
+Yes,Yes
+No,No
+Position,Position
+Name,Name
+"Improved Navigation","Improved Navigation"
+Loading...,Loading...
+Settings,Settings
+"Use Default Value","Use Default Value"
+Search,Search
+item,item
+items,items
+More,More
+Less,Less
+"Improved Layered Navigation","Improved Layered Navigation"
+"Enable Ajax","Enable Ajax"
+"Handle Filters Collapsing","Handle Filters Collapsing"
+"Stock Filter","Stock Filter"
+Enabled,Enabled
+"If you want to show out of stock products, please configure it here: Stores->Configuration->Catalog->Inventory->Stock Options->Display Out of Stock Products","If you want to show out of stock products, please configure it here: Stores->Configuration->Catalog->Inventory->Stock Options->Display Out of Stock Products"
+Label,Label
+"Rating Filter","Rating Filter"
+Tooltips,Tooltips
+"Tooltip Image","Tooltip Image"

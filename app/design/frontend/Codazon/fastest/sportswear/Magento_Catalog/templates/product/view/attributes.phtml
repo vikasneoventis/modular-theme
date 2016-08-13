@@ -1,0 +1,43 @@
+<?php
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+/**
+ * Product additional attributes template
+ *
+ * @var $block \Magento\Catalog\Block\Product\View\Attributes
+ */
+?>
+<?php
+    $_helper = $this->helper('Magento\Catalog\Helper\Output');
+    $_product = $block->getProduct();
+    $_additional = $block->getAdditionalData();
+    $count = count($_additional);
+?>
+<?php if ($_additional = $block->getAdditionalData()): ?>
+    <div class="col-md-24 additional-attributes-wrapper table-wrapper">
+        <table class="data table additional-attributes" id="product-attribute-specs-table">
+            <caption class="table-caption"><?php /* @escapeNotVerified */ echo __('Specifications') ?></caption>
+            <tbody>
+               <?php $i=0; foreach ($_additional as $_data): $i++; $oddEven =($i % 2) ? 'odd':'even';?>
+               <?php if($oddEven == "even"): ?>
+                <tr class="even">
+                  <th class="col-md-8 col label" scope="row"><?php echo $block->escapeHtml(__($_data['label'])) ?></th>
+                  <td class="col-md-16 col data" data-th="<?php echo $block->escapeHtml(__($_data['label'])) ?>"><?php /* @escapeNotVerified */ echo $_helper->productAttribute($_product, $_data['value'], $_data['code']) ?></td>
+                </tr>
+              <?php elseif($oddEven == "odd"): ?>
+                  <tr class="odd">
+                  <th class="col-md-8 col label" scope="row"><?php echo $block->escapeHtml(__($_data['label'])) ?></th>
+                  <td class="odd col-md-16 col data" data-th="<?php echo $block->escapeHtml(__($_data['label'])) ?>"><?php /* @escapeNotVerified */ echo $_helper->productAttribute($_product, $_data['value'], $_data['code']) ?></td>
+                </tr>
+              <?php endif ?>
+            <?php endforeach; ?>              
+            </tbody>
+        </table>
+    </div>
+<?php endif;?>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author Amasty Team
+ * @copyright Copyright (c) 2016 Amasty (https://www.amasty.com)
+ * @package Amasty_Shopby
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="\Magento\Catalog\Block\Category\View">
+        <plugin name="amasty_shopby_brand_catalog_category_view" type="\Amasty\ShopbyBrand\Plugin\CategoryViewPlugin" sortOrder="100"/>
+    </type>
+    <type name="\Magento\Catalog\Model\Category">
+        <plugin name="amasty_shopby_brand_catalog_category" type="\Amasty\ShopbyBrand\Plugin\CategoryPlugin" sortOrder="100"/>
+    </type>
+    <type name="\Amasty\Shopby\Model\Layer\Filter\Attribute">
+        <plugin name="amasty_shopby_brand_filter_attribute" type="\Amasty\ShopbyBrand\Plugin\AttributeFilterPlugin" sortOrder="100"/>
+    </type>
+    <type name="Amasty\Shopby\Model\Customizer\Category">
+        <arguments>
+            <argument name="customizers" xsi:type="array">
+                <item name="brand" xsi:type="string">Amasty\ShopbyBrand\Model\Customizer\Category\Brand</item>
+            </argument>
+        </arguments>
+    </type>
+</config>

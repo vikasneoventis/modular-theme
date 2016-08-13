@@ -1,0 +1,27 @@
+<?php
+/**
+ * @author Amasty Team
+ * @copyright Copyright (c) 2016 Amasty (https://www.amasty.com)
+ * @package Amasty_Shopby
+ */
+?>
+<?php
+/**
+ * @var $block \Amasty\Shopby\Block\Navigation\FilterCollapsing
+ */
+
+if(!$block->canShowBlock()) {
+    return;
+}
+?>
+
+<script type="text/x-magento-init">
+            {
+                "#narrow-by-list": {
+                    "accordion": {
+                        "multipleCollapsible": true,
+                        "active": [<?=implode(",", $block->getFiltersExpanded())?>]
+                    }
+                }
+            }
+</script>

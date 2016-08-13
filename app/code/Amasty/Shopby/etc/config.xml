@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author Amasty Team
+ * @copyright Copyright (c) 2016 Amasty (https://www.amasty.com)
+ * @package Amasty_Shopby
+ */
+-->
+<!--
+/**
+* Copyright © 2015 Amasty. All rights reserved.
+*/
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <amshopby>
+            <general>
+                <ajax_enabled>0</ajax_enabled>
+                <handle_filter_collapsing>1</handle_filter_collapsing>
+            </general>
+            <stock_filter>
+                <enabled>0</enabled>
+                <placed_block>1</placed_block>
+                <position>0</position>
+                <label>Stock</label>
+                <tooltip></tooltip>
+                <is_expanded>0</is_expanded>
+                <display_mode>0</display_mode>
+            </stock_filter>
+            <rating_filter>
+                <enabled>0</enabled>
+                <placed_block>1</placed_block>
+                <position>0</position>
+                <label>Rating</label>
+                <tooltip></tooltip>
+                <is_expanded>0</is_expanded>
+                <display_mode>0</display_mode>
+            </rating_filter>
+            <tooltips>
+                <enabled>1</enabled>
+                <image>amasty/shopby/images/tooltip.png</image>
+            </tooltips>
+        </amshopby>
+    </default>
+</config>

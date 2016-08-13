@@ -1,0 +1,402 @@
+[08-Jul-2016 23:41:01 UTC] PHP Warning:  include(/home/outdora/public_html/outdoorpizzaovens/var/generation/Magento/Framework/App/Response/Http/Interceptor.php): failed to open stream: No such file or directory in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 412
+[08-Jul-2016 23:41:01 UTC] PHP Warning:  include(): Failed opening '/home/outdora/public_html/outdoorpizzaovens/var/generation/Magento/Framework/App/Response/Http/Interceptor.php' for inclusion (include_path='/home/outdora/public_html/outdoorpizzaovens/var/generation:/home/outdora/public_html/outdoorpizzaovens/lib/internal:/home/outdora/public_html/outdoorpizzaovens/var/generation:/home/outdora/public_html/outdoorpizzaovens/lib/internal:/home/outdora/public_html/outdoorpizzaovens/vendor/phpseclib/phpseclib/phpseclib:/home/outdora/public_html/outdoorpizzaovens/vendor/magento/zendframework1/library:/home/outdora/public_html/outdoorpizzaovens/vendor/phpunit/php-file-iterator:/home/outdora/public_html/outdoorpizzaovens/vendor/phpunit/phpunit:/home/outdora/public_html/outdoorpizzaovens/vendor/symfony/yaml:.:/usr/lib/php:/usr/local/lib/php') in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 412
+[08-Jul-2016 23:41:03 UTC] PHP Warning:  include(/home/outdora/public_html/outdoorpizzaovens/var/generation/Magento/Framework/App/Response/Http/Interceptor.php): failed to open stream: No such file or directory in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 412
+[08-Jul-2016 23:41:03 UTC] PHP Warning:  include(): Failed opening '/home/outdora/public_html/outdoorpizzaovens/var/generation/Magento/Framework/App/Response/Http/Interceptor.php' for inclusion (include_path='/home/outdora/public_html/outdoorpizzaovens/var/generation:/home/outdora/public_html/outdoorpizzaovens/lib/internal:/home/outdora/public_html/outdoorpizzaovens/var/generation:/home/outdora/public_html/outdoorpizzaovens/lib/internal:/home/outdora/public_html/outdoorpizzaovens/vendor/phpseclib/phpseclib/phpseclib:/home/outdora/public_html/outdoorpizzaovens/vendor/magento/zendframework1/library:/home/outdora/public_html/outdoorpizzaovens/vendor/phpunit/php-file-iterator:/home/outdora/public_html/outdoorpizzaovens/vendor/phpunit/phpunit:/home/outdora/public_html/outdoorpizzaovens/vendor/symfony/yaml:.:/usr/lib/php:/usr/local/lib/php') in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 412
+[20-Jul-2016 17:15:38 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 17:17:18 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 17:32:09 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 17:33:14 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 17:34:47 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 18:49:43 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 18:50:14 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 18:54:08 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 18:54:18 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 19:06:16 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 19:06:36 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 19:06:53 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 19:08:34 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 19:08:43 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 19:08:54 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[20-Jul-2016 19:09:11 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[21-Jul-2016 01:32:55 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[21-Jul-2016 01:33:18 UTC] PHP Fatal error:  Call to a member function getCount() on array in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/module-layered-navigation/view/frontend/templates/layer/filter.phtml on line 21
+[21-Jul-2016 18:47:15 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:15 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:15 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:15 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:17 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:17 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:17 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:17 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:19 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:19 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:19 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:19 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:21 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:22 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:22 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:22 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:22 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:24 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:24 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:24 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:24 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:26 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:27 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:27 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:27 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:27 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:29 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:29 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:29 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:29 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:32 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:34 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:36 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:36 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:36 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:36 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:38 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:38 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:38 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:38 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:40 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:40 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:40 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:40 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:41 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:41 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:41 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:41 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:44 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:44 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:44 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:44 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:45 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:45 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:45 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:45 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:47 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:47 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:47 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:47 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:49 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:49 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:49 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:49 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:52 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:54 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:54 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:54 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:54 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:56 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:56 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:56 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:56 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:58 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:58 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:58 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:58 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:47:59 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:47:59 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:47:59 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:47:59 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:01 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:01 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:01 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:01 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:03 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:05 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:05 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:05 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:05 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:07 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:07 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:07 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:07 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:11 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:11 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:11 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:11 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:13 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:13 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:13 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:13 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:15 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:15 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:15 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:15 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:18 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:18 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:18 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:18 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:20 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:22 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:22 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:22 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:22 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:25 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:26 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:29 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:29 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:29 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:29 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:32 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:34 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:36 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:36 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:36 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:36 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:38 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:38 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:38 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:38 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:40 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:40 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:40 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:40 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:42 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:42 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:42 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:42 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:44 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:44 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:44 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:44 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:46 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:46 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:46 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:46 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:47 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:47 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:47 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:47 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:49 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:49 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:49 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:49 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:51 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:53 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:53 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:53 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:53 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:55 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:55 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:55 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:55 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:57 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:57 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:57 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:57 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:48:59 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:48:59 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:48:59 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:48:59 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:01 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:01 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:01 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:01 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:03 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:06 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:07 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:07 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:07 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:07 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:10 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:10 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:10 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:10 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:12 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:12 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:12 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:12 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:14 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:16 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:16 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:16 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:16 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:19 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:19 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:19 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:19 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:21 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:23 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:23 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:23 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:23 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:24 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:24 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:24 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:24 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:26 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:28 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:28 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:28 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:28 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:30 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:30 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:30 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:30 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:32 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:34 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:35 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:35 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:35 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:35 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:37 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:37 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:37 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:37 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:39 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:39 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:39 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:39 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:42 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:42 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:42 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:42 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:44 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:44 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:44 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:44 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:46 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:46 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:46 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:46 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:48 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:50 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:50 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:50 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:50 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:51 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:54 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:54 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:54 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:54 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:56 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:56 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:56 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:56 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:49:58 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:49:58 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:49:58 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:49:58 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:00 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:00 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:00 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:00 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:02 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:02 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:02 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:02 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:04 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:04 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:04 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:04 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:06 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:08 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:08 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:08 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:08 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:10 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:10 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:10 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:10 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:12 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:12 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:12 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:12 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:14 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:15 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:15 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:15 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:15 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:17 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:17 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:17 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:17 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:19 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:19 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:19 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:19 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:21 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:23 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:23 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:23 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:23 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
+[21-Jul-2016 18:50:25 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Code/Generator/EntityAbstract.php on line 152
+[21-Jul-2016 18:50:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/magento/framework/Autoload/ClassLoaderWrapper.php on line 81
+[21-Jul-2016 18:50:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 317
+[21-Jul-2016 18:50:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/outdora/public_html/outdoorpizzaovens/vendor/composer/ClassLoader.php on line 349
