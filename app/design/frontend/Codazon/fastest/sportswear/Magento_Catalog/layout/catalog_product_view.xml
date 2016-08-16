@@ -11,20 +11,10 @@
         <move element="product.info.review" destination="page.main.title" after="product.info.sku"/>
         <move element="product.info.stock.sku" destination="product.info.main" after="page.main.title"/>
 	<referenceBlock name="catalog.leftnav" remove="true"/>
-	<move element="product.info.overview" destination="product.info.main" after="product.info.review" />
+	<move element="product.info.overview" destination="product.info.details" before="product.info.description" />
 
-	<referenceBlock name="product.info.overview" template="product/view/short_description.phtml">
-		<arguments>
-            <argument name="at_call" xsi:type="string">getShortDescription</argument>
-            <argument name="at_code" xsi:type="string">short_description</argument>
-            <argument name="css_class" xsi:type="string">overview</argument>
-            <argument name="at_label" translate="true" xsi:type="string">Overview</argument>
-            <argument name="title" translate="true" xsi:type="string">Overview</argument>
-            <argument name="add_attribute" xsi:type="string">itemprop="description"</argument>
-        </arguments>
-	</referenceBlock>
-	<referenceBlock name="product.info.addto" as="addto" />
 	<move element="product.info.addto" destination="product.info" after="-" />
+  <referenceBlock name="product.info.addto" as="addto" />
 	<referenceContainer name="product.info.social">
 		<block class="Magento\Catalog\Block\Product\View" name="product.info.social.links" as="social" template="product/view/social.phtml" after="-" />
 	</referenceContainer>
@@ -33,10 +23,28 @@
 	</referenceContainer>
 	<referenceContainer name="content">
 		<container name="product.main.content" htmlTag="div" htmlClass="product-main-content" before='-'></container>
-    </referenceContainer>
-	<move element="product.info.media" destination="product.main.content" before='-'/>
-	<move element="product.info.main" destination="product.main.content" />
+  </referenceContainer>
+  <move element="product.info.main" destination="product.main.content" after='product.info.media'/>
+	<move element="product.info.media" destination="product.main.content" before='product.info.main'/>
+	<move element="product.info.details" destination="product.main.content" after='product.info.main'/>
+  <move element="product.info.social" destination="product.main.content" before='product.info.details'/>
+  <move element="product.info.addto" destination="product.main.content" before='product.info.social'/>
   <referenceBlock name="product.info.details">
+    <referenceBlock name="product.info.overview" template="product/view/short_description.phtml">
+      <arguments>
+        <argument name="at_call" xsi:type="string">getShortDescription</argument>
+        <argument name="at_code" xsi:type="string">short_description</argument>
+        <argument name="css_class" xsi:type="string">overview</argument>
+        <argument name="at_label" translate="true" xsi:type="string">Overview</argument>
+        <argument name="title" translate="true" xsi:type="string">Overview</argument>
+        <argument name="add_attribute" xsi:type="string">itemprop="description"</argument>
+      </arguments>
+    </referenceBlock>
+    <referenceBlock name="product.info.description">
+        <arguments>
+            <argument name="title" translate="true" xsi:type="string">Description</argument>
+        </arguments>
+    </referenceBlock>
       <referenceBlock name="product.attributes">
           <arguments>
               <argument name="title" translate="true" xsi:type="string">Specifications</argument>
@@ -57,6 +65,11 @@
             <argument translate="true" name="title" xsi:type="string">Videos</argument>
           </arguments>
       </block>
+      <block class="Magento\Catalog\Block\Product\View" name="short.tab" template="product/view/short_description.phtml" group="detailed_info" >
+          <arguments>
+            <argument translate="true" name="title" xsi:type="string">Overview</argument>
+          </arguments>
+      </block>
   </referenceBlock>
-    </body>
+      </body>
 </page>
