@@ -151,7 +151,11 @@ $_mobileHelper = $this->helper('Codazon\ThemeOptions\Helper\Mobile');
 									<?php /* @escapeNotVerified */ echo $_helper->productAttribute($_product, $_product->getName(), 'name'); ?>
 								</a>
 							</strong>
-							<?php /* @escapeNotVerified */ echo $block->getProductPrice($_product) ?>
+              <?php if(!($_product->getCallForPrice())): ?>
+                <?php /* @escapeNotVerified */ echo $block->getProductPrice($_product) ?>
+              <?php else: ?>
+                <small class="call-for-price"><?php echo "Call" ?> <span class="fa fa-phone"> (877) 688-3672</span> <?php echo "for Pricing" ?></small>
+              <?php endif; ?>
 							<?php if($showReviewRating): ?>
 							<?php echo $block->getReviewsSummaryHtml($_product, $templateType); ?>
 							<?php endif ?>
