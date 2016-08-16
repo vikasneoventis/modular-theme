@@ -36,10 +36,9 @@ if ($_attributeType && $_attributeType == 'text') {
 <div class="product attibute <?php /* @escapeNotVerified */ echo $_className?>">
     <?php if ($_attributeLabel != 'none'): ?>
     <div class="title" data-mage-init='{"toggleAdvanced": {"selectorsToggleClass":"hidden", "toggleContainers":"#short_description_content"}}'>
-	    <strong class="type"><?php /* @escapeNotVerified */ echo $_attributeLabel?></strong>
+	    <strong class="type"><?php /* @escapeNotVerified */ /*echo $_attributeLabel*/?></strong>
     </div>
-    <?php endif; ?>    
+    <?php endif; ?>
     <div id="short_description_content" class="value" <?php /* @escapeNotVerified */ echo $_attributeAddAttribute;?>><?php /* @escapeNotVerified */ echo $_attributeValue; ?></div>
 </div>
 <?php endif; ?>
-
