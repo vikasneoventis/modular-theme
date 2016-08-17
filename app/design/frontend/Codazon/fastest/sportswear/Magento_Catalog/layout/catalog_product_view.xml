@@ -71,7 +71,7 @@
           </arguments>
       </block>
   </referenceBlock>
-  <referenceContainer name="product.info.price">
+  <referenceContainer name="product.info.main">
     <block class="Magento\Catalog\Block\Product\View" name="product.info.callforprice" template="product/view/callforprice.phtml" before="-">
     </block>
   </referenceContainer>
