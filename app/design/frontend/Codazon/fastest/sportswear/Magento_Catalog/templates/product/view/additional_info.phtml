@@ -1,0 +1,12 @@
+<?php
+// Get videoID attribute
+$_helper = $this->helper('Magento\Catalog\Helper\Output');
+$_product = $this->getProduct();
+$additionalInfo = $_product->getAdditionalInfo();
+// Check to see if the product has a video ID
+if ($additionalInfo != ""){
+// If it does, show the video
+?>
+<?php echo $additionalInfo ?>
+<?php
+} ?>

@@ -1,0 +1,16 @@
+<?php
+$_helper = $this->helper('Magento\Catalog\Helper\Output');
+$_product = $block->getProduct();
+
+$_code = $block->getAtCode();
+$_className = $block->getCssClass();
+$_attributeLabel = $block->getAtLabel();
+$_attributeType = $block->getAtType();
+$_attributeAddAttribute = $block->getAddAttribute();
+ ?>
+<?php if ($_product->getCallForPrice()): ?>
+  <div class="showroom-product">
+      <h3 class="call-for-price-main"><?php  echo "Call (877) 688-3672 to Speak to a Product Expert" ?></h3>
+      <h3 class="call-for-price-main"><?php  echo "Call for Dealer Pricing" ?></h3>
+  </div>
+<?php endif ?>
