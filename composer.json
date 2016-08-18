@@ -15,7 +15,10 @@
     ],
     "require": {
         "magento/product-community-edition": "2.0.9",
-        "composer/composer": "@alpha"
+        "composer/composer": "@alpha",
+        "shipperhq/module-shipper": "^20.0",
+        "shipperhq/module-logger": "^20.0",
+        "webshopapps/module-matrixrate": "^20.0"
     },
     "require-dev": {
         "phpunit/phpunit": "4.1.0",
