@@ -5501,16 +5501,16 @@
         },
         {
             "name": "shipperhq/module-shipper",
-            "version": "20.0.17",
+            "version": "20.0.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/shipperhq/module-shipper.git",
-                "reference": "05ee446a1d34534346f1202703e2deb1f458bf73"
+                "reference": "90828b959196f7939c7ab4a727e84dce3ad9af22"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shipperhq/module-shipper/zipball/05ee446a1d34534346f1202703e2deb1f458bf73",
-                "reference": "05ee446a1d34534346f1202703e2deb1f458bf73",
+                "url": "https://api.github.com/repos/shipperhq/module-shipper/zipball/90828b959196f7939c7ab4a727e84dce3ad9af22",
+                "reference": "90828b959196f7939c7ab4a727e84dce3ad9af22",
                 "shasum": ""
             },
             "require": {
@@ -5544,7 +5544,7 @@
                 }
             ],
             "description": "Magento Shipping integration with ShipperHQ",
-            "time": "2016-08-04 02:31:25"
+            "time": "2016-08-19 09:43:18"
         },
         {
             "name": "symfony/console",
